@@ -1,0 +1,6 @@
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\bin\Debug\SeleniumFramework.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\bin\Debug\SeleniumFramework.pdb
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\obj\Debug\SeleniumFramework.csprojAssemblyReference.cache
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\obj\Debug\SeleniumFramework.csproj.CoreCompileInputs.cache
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\obj\Debug\SeleniumFramework.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SeleniumFrameworkDesign\obj\Debug\SeleniumFramework.pdb

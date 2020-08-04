@@ -1,0 +1,16 @@
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\SUTProject.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\SUTProject.pdb
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\WebDriver.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\bin\Debug\WebDriver.xml
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\obj\Debug\SUTProject.csprojAssemblyReference.cache
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\obj\Debug\SUTProject.csproj.CoreCompileInputs.cache
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\obj\Debug\SUTProject.csproj.CopyComplete
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\obj\Debug\SUTProject.dll
+C:\ThejaswiAutomation\SeleniumFrameworkDesign\SUTProject\obj\Debug\SUTProject.pdb
